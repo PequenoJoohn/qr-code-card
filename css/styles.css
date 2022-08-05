@@ -13,6 +13,7 @@ body {
 }
 
 .card {
+    margin: 24px;
     padding: 1rem;
     background-color: hsl(0, 0%, 100%);
     border-radius: 25px;
